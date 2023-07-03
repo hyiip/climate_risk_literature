@@ -30,3 +30,6 @@ Application paper by Makalic which gives a compact form of bias correction funct
 
 Kind of a review paper that gives different form of bias correction function.
 
+- book_bias_reduction.pdf
+
+Chapter 4 gives outline on how to conduct bias reduction.
