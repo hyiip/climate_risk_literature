@@ -33,3 +33,7 @@ Kind of a review paper that gives different form of bias correction function.
 - book_bias_reduction.pdf
 
 Chapter 4 gives outline on how to conduct bias reduction.
+
+- original_Kosmidis_algo.pdf
+
+Maybe useful for guiding how to conduct MLE with bias reduction, where I do not have the expected information.
